@@ -1,1 +1,0 @@
-CNMF is disclosing these IOCs in close coordination with our Ukrainian counterparts. The Security Service of Ukraine discovered several types of malware in their country over the last few months, and have analyzed the samples and identified IOCs. The IOCs included 20 novel indicators in various formats. 
