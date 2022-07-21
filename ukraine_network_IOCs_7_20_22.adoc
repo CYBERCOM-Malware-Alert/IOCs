@@ -1,0 +1,67 @@
+= Ukraine Network IOCs
+
+[cols="1,1"]
+|===
+|IOC |Related Signature
+
+|195.154.255 [.] 211
+|
+
+|a8yq99tadibixcolmcy8eiyfncvafk7iqcnarcqxaaaaaaaaaaaaaaaalaaiaa.aaaaaaaaaaaa e.mx 1[.]be
+|
+
+|a8yk66yshlbixcolmcy8eiyfncvafk7iqcnarcqxaaaaaaaaaaaaaaaalaaiaa.aaaaaaaaaaa ae.mx 1[.]be
+|
+
+|a8y1a442fibixcolmcy8eiyfncvafk7iqcnarcqxaaaaaaaaaaaaaaaalaaiaa.aaaaaaaaaaaa e.153 [.]re
+|
+
+|9cf2ee018a565c00e811897e6056a5a2
+|
+
+|8fc42ee971ab296f921bb05633f6b4a6
+|
+
+|Зброя НОВ.zip
+|2fd2a110eb2f0b1c15381a4727b2e312
+
+|Zbroia.lnk
+|e8c1cd480ecee79077472800be06b3e7
+
+|zbroia/1.jpg
+|117a4913ca14a74a0264352a4b8a2bb6
+
+|zbroia/2.jpg
+|c17c26bef5917fb914e0f32e24b4071a
+
+|zbroia/зброя нов.xsls
+|14a89a87f6209515745fbcfe8976287c
+
+|"план евакуації (затверджений сбу 28.02.2022 наказом № 009363677833).rar_pass_123.zip
+|cd8834da2cfb0285fa75decf6c67d049
+
+|a236cb7f2b0e34619039788de7f7760b
+|
+
+|wisw.exe
+|9ad4a2dfd4cb49ef55f2acd320659b83
+
+|java-sdk.exe
+|c8bf238641621212901517570e96fae7
+
+|oracle-java.exe
+|4f11abdb96be36e3806bada5b8b2b8f8
+
+|microsoft-cortana.exe
+|9ea3aaaeb15a074cd617ee1dfdda2c26
+
+|tmp.php
+|e5e91ec7f8ee8e87a5c349b239bbb47e
+
+|up.php
+|21cc2e276dc88edbbfd7afc45f664534
+
+|BC9DF288FB11693DD1C7CE96A9B9DFB3
+|
+
+|=== 
